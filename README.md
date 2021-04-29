@@ -1,2 +1,2 @@
-# Attendace capture system using face recognition
-Attendance capture system using face recognition
+# Attendace capture system using Face Recognition
+Attendance capture system using Face Recognition
