@@ -1,5 +1,7 @@
 # ATTENDANCE CAPTURING SYSTEM USING FACE RECOGNITION
 
+![image](https://user-images.githubusercontent.com/64376922/120899558-eadc0000-c64d-11eb-9056-d77e2b37e865.png)
+
 ## INTRODUCTION
 The main purpose of making this project is to help teachers all around the globe to perform a task that might seem easy at first but will get more and more frustrating over time. This task of taking attendance can be made convenient by implementing our machine learning model implemented with our user interface.
 The ACS is a web portal. All datasets for the ACS are modified using driver programs. These programs include face creation, face detection, face recognition and other such models.
@@ -47,3 +49,19 @@ In this system, we maintain two drivers. These drivers include face creation (dr
 #### Workflow
 The diagram given below displays the actual working of our project involving every aspect of the program in brief:
 
+![image](https://user-images.githubusercontent.com/64376922/120899421-4bb70880-c64d-11eb-9a89-eb0c8afe0f6d.png)
+
+## COMPONENTS
+#### Video to be submitted: (Video_Upload.ipynb)
+![image](https://user-images.githubusercontent.com/64376922/120899311-b61b7900-c64c-11eb-879f-09526d9a3f13.png)
+
+#### Video Submitted: (Video_Upload.ipynb)
+![image](https://user-images.githubusercontent.com/64376922/120899322-c6cbef00-c64c-11eb-9e0d-6ffa042cfb07.png)
+
+#### Final Output Report: (Trainer_Code.ipynb)
+The “Train Model” button executes driver_code1.ipynb (to be executed only once) while the “Check” button executes driver_code2.ipynb.
+
+![image](https://user-images.githubusercontent.com/64376922/120899353-f3800680-c64c-11eb-82ed-3621dfdd4525.png)
+
+## CONCLUSION
+The project made will help all the teachers worldwide, will display efficiency in the education sector. The ease of just uploading the class photo on a website and receiving instant attendance report would prove useful for teachers in a hurry. The future scope of this project is very large. An SQL server can be used to send attendance to the college database and that would lessen even this task of teachers taking attendance. We hope that with our project several schools would take this at use and implement it in their systems.
